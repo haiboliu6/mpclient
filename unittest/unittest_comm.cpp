@@ -5,8 +5,8 @@
 
 using std::string;
 
-static string g_appid="wx169165470ddeb026";
-static string g_secret="0cfd206c9f92a68e9b9e11252117be89";
+static string g_appid="";
+static string g_secret="";
 static string g_token;
 
 //for send msg
@@ -19,8 +19,8 @@ static string g_picurl="https://mmbiz.qlogo.cn/mmbiz/icwGfqWxdSOyIETrviav2GnOU54
 static string g_newsurl="http://mp.weixin.qq.com/s?__biz=MzI2MjA3NDQ0Ng==&mid=502010140&idx=1&sn=0315407aee365f9d69311235ca485c4f#rd";
 
 //test user
-static string g_openid = "oTk5vwq6NO1TYrTaxtSkOduRt1j8";
-static string g_wxid = "jam506975";
+static string g_openid = "";
+static string g_wxid = "";
 
 //test user tag
 static unsigned long long g_tagid = 103;
